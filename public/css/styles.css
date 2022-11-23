@@ -1,0 +1,36 @@
+.workSpace {
+  height: 668px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wholeCard {
+  border: 2px blue solid;
+  height: 200px;
+  width: 600px;
+}
+
+.ProfilePicture {
+  height: 160px;
+  width: 150px;
+  margin: 20px 0px 0px 20px;
+  border: 1.5px rgb(237, 237, 11) solid;
+}
+
+.titleArea {
+  margin: 20px 0px 5px 175px;
+  padding: 10px 20px;
+  border: 1px rgb(208, 74, 25) solid;
+  height: 60px;
+  width: 405px;
+}
+
+.descriptionArea {
+  margin: 115px 0px 0px 175px;
+  padding: 10px 20px;
+  border: 1px gray solid;
+  height: 95px;
+  width: 405px;
+}
